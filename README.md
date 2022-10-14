@@ -7,3 +7,6 @@
              Other key indicator include diabetic status, obesity (high BMI), not getting enough physical activity or drinking too much alcohol. 
 
              Detecting and preventing the factors that have the greatest impact on heart disease is very important in healthcare.
+
+# Source of the dataset :
+https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
